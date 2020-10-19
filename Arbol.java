@@ -1,8 +1,8 @@
 /***************************************************************************
-									ForestWin
+ForestWin
 Proyecto Programación Orientada a Objetos
- Arbol.java (Clase Arbol)
- Autores: Erick Raúl Alvarez Melgar - Carné 20900
+*Arbol.java (Clase Arbol)
+*Autores: Erick Raúl Alvarez Melgar - Carné 20900
 		  Adam Sebastian Rios Kirste - Carné 20616
 		  Juan Pablo Zelada Ramirez - Carné 201004
 		  César Rodrigro Meza Torres - Carné 20287
