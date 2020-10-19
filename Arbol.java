@@ -63,7 +63,7 @@ public class Arbol implements Serializable {
     }
 
 
-    //Setters de los atributos de un Arbol
+    //Setters de los atributos de un Arbol *Sujeto a cambios*
     public void setEspecie(String especie) {
         Especie = especie;
     }
